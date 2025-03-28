@@ -1,1 +1,3 @@
 venv
+engine/__pycache__
+game/scene/__pycache__
